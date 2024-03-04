@@ -12,7 +12,7 @@
       "postalCode": "TX 78249",
       "city": "San Antonio",
       "countryCode": "US",
-      "region": "TExas"
+      "region": "Texas"
     },
     "profiles": [
       {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": ""Unmanned Systems Laboratory, UTSA",
       "position": "Graduate Research Fellow",
       "url": "https://example.com",
       "startDate": "2021-01-01",
-      "endDate": "",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Guidance and Navigation"]
+      "endDate": "2024-12-01",
+      "summary": "",
+      "highlights": ["Relational Maneuvering, Formation control, Guidance and Navigation"]
     }
   ],
   "volunteer": [
