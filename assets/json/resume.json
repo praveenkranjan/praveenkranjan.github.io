@@ -63,7 +63,7 @@
       "startDate": "2019-06-01",
       "endDate": "2018-08-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Aerospace"]
     },
     {
       "institution": "Indian Institute of Technology",
@@ -74,7 +74,7 @@
       "startDate": "2018-06-01",
       "endDate": "2014-06-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Scifi"]
     }
   ],
   "awards": [
