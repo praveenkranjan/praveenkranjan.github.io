@@ -42,26 +42,38 @@
       "highlights": ["Relational Maneuvering, Formation control, Guidance and Navigation"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
   "education": [
     {
       "institution": "University of Texas at San Antonio",
       "location": "San Antonio, Texas",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Electrical Engineering",
       "studyType": "PhD",
       "startDate": "2024-01-12",
       "endDate": "2021-01-01",
+      "score": "10",
+      "courses": ["Linear Control"]
+    },
+    {
+      "institution": "Indian Institute of Technology",
+      "location": "Kanpur, India",
+      "url": "https://www.uzh.ch/",
+      "area": "Aerospace Engineering",
+      "studyType": "M.Tech",
+      "startDate": "2019-06-01",
+      "endDate": "2018-08-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Indian Institute of Technology",
+      "location": "Kanpur, India",
+      "url": "https://www.uzh.ch/",
+      "area": "Aerospace Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2018-06-01",
+      "endDate": "2014-06-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
