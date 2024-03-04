@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "basics": [
     "name": "Praveen Kumar Ranjan",
     "label": "Graduate Research Fellow",
     "image": "",
@@ -14,7 +14,7 @@
       "countryCode": "US",
       "region": "Texas"
     }
-  },
+  ],
   "work": [
     {
       "name": "Unmanned Systems Laboratory, UTSA",
