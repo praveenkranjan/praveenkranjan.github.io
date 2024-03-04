@@ -20,7 +20,8 @@
         "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
       }
-    ],
+    ]
+  },
   "work": [
     {
       "name": "Unmanned Systems Laboratory, UTSA",
@@ -28,7 +29,7 @@
       "url": "wwww:aaaa.com",
       "startDate": "2021-01-01",
       "endDate": "2024-12-01",
-      "summary": "",
+      "summary": "abc",
       "highlights": ["Relational Maneuvering, Formation control, Guidance and Navigation"]
     },
     {
@@ -37,7 +38,7 @@
       "url": "wwww:aaaa.com",
       "startDate": "2021-01-01",
       "endDate": "2021-06-01",
-      "summary": "",
+      "summary": "abc",
       "highlights": ["Relational Maneuvering, Formation control, Guidance and Navigation"]
     }
   ],  
