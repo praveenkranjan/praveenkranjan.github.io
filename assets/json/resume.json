@@ -1,24 +1,24 @@
 {
    "basics": {
-    "name": "Albert Einstein",
+    "name": "Praveen Kumar",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://praveenkranjan.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Unmanned Systems Laboratory",
+      "postalCode": "TX 78249",
+      "city": "San Antonio",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
