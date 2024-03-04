@@ -1,20 +1,27 @@
 {
-  "basics": [
-    "name": "Praveen Kumar Ranjan",
-    "label": "Graduate Research Fellow",
+   "basics": {
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "praveen.ranjan@my.utsa.edu",
-    "phone": "(210) 992-3614",
-    "url": "https://praveenkranjan.github.io",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "Unmanned Systems Lab, Univ. of Texas at San Antonio",
-      "postalCode": "TX 78249",
-      "city": "San Antonio",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Texas"
-    }
-  ],
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
   "work": [
     {
       "name": "Unmanned Systems Laboratory, UTSA",
