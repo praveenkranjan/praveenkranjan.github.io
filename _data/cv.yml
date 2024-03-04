@@ -2,30 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Praveen Kumar Ranjan
+      value: Albert Einstein
     - name: Date of Birth
-      value: 13th March 1997
+      value: 14th March 1879
     - name: Languages
-      value: English
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Texas at San Antonio, Texas, US
-      year: 2024
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        -Electrical Engineering.
+        - Description 1.
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Masters of Technology
-      institution: Indian Institute of Technology, Kanpur, India
-      year: 2019
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        -Aerospace Engineering.
+        - Description 1.
         - Description 2.
 
 - title: Experience
