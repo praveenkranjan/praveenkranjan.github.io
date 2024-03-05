@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Praveen Kumar Ranjan",
+    "label": "Graduate Research Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "praveenkranjan97@gmail.com",
+    "phone": "(210) 992-3614",
+    "url": "https://praveenkranjan.github.io",
+    "summary": "Electrical and Aerospace Engineer",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Unmanned Systems Lab.",
+      "postalCode": "TX 78249",
+      "city": "San Antonio",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
