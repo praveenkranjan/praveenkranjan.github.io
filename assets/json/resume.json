@@ -30,7 +30,7 @@
       "startDate": "2021-01-01",
       "endDate": "2024-12-01",
       "summary": "Unmanned Systems Laboratory",
-      "highlights": [""]
+      "highlights": ["Department of Electrical and Computer Engineering"]
     },
     {
       "name": "University of Texas at San Antonio",
@@ -39,7 +39,7 @@
       "startDate": "2021-01-01",
       "endDate": "2021-06-01",
       "summary": "Course: Senior Design",
-      "highlights": [""]
+      "highlights": ["Department of Electrical and Computer Engineering"]
     },
     {
       "name": "Indian Institute of Technology, Kanpur, India",
@@ -47,8 +47,8 @@
       "url": "",
       "startDate": "2019-08-01",
       "endDate": "2020-12-01",
-      "summary": "VTOL and HElicopter Laboratory",
-      "highlights": [""]
+      "summary": "VTOL and Helicopter Laboratory",
+      "highlights": ["Department of Aerospace Engineering"]
     },
     {
       "name": "Indian Institute of Technology, Kanpur, India",
@@ -57,7 +57,7 @@
       "startDate": "2019-08-01",
       "endDate": "2018-08-01",
       "summary": "Course: Engineering Drawing",
-      "highlights": [""]
+      "highlights": ["Department of Aerospace Engineering"]
     }
   ],
   "volunteer": [
