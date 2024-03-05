@@ -73,15 +73,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Texas at San Antonio",
+      "location": "San Antonio, USA",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Electrical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2021-01-01",
+      "endDate": "2024-12-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Motion Planning for relationational Maneuvering of Unmanned Aerial Vehicles with Limted Information. "]
     }
   ],
   "awards": [
