@@ -93,17 +93,6 @@
       "endDate": "2018-08-01",
       "score": "10",
       "courses": ["High-fidelity Flight Dynamics modelling using Deep-Learning"]
-    },
-    {
-      "institution": "Indian Institute of Technology, Knapur",
-      "location": "Kanpur, India",
-      "url": "https://www.iitk.ac.in/",
-      "area": "Aerospace Engineering",
-      "studyType": "Bachelors of Technology",
-      "startDate": "2018-06-01",
-      "endDate": "2014-08-01",
-      "score": "10",
-      "courses": ["abc"]
     }
   ],
   "awards": [
