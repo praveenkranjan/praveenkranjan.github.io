@@ -40,6 +40,15 @@
       "endDate": "2021-06-01",
       "summary": "Course: Senior Design",
       "highlights": ["Department of Electrical and Computer Engineering"]
+    },    
+    {
+      "name": "Indian Institute of Technology, Kanpur, India",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2019-08-01",
+      "endDate": "2018-08-01",
+      "summary": "Course: Engineering Drawing",
+      "highlights": ["Department of Aerospace Engineering"]
     },
     {
       "name": "Indian Institute of Technology, Kanpur, India",
@@ -50,15 +59,6 @@
       "summary": "VTOL and Helicopter Laboratory",
       "highlights": ["Department of Aerospace Engineering"]
     },
-    {
-      "name": "Indian Institute of Technology, Kanpur, India",
-      "position": "Teaching Assistant",
-      "url": "",
-      "startDate": "2019-08-01",
-      "endDate": "2018-08-01",
-      "summary": "Course: Engineering Drawing",
-      "highlights": ["Department of Aerospace Engineering"]
-    }
   ],
   "volunteer": [
     {
@@ -88,7 +88,7 @@
       "location": "Kanpur, India",
       "url": "https://www.iitk.ac.in/",
       "area": "Aerospace Engineering",
-      "studyType": "Masters of TEchnology",
+      "studyType": "Masters of Technology",
       "startDate": "2019-06-01",
       "endDate": "2018-08-01",
       "score": "10",
@@ -99,11 +99,10 @@
       "location": "Kanpur, India",
       "url": "https://www.iitk.ac.in/",
       "area": "Aerospace Engineering",
-      "studyType": "Bachelors of TEchnology",
+      "studyType": "Bachelors of Technology",
       "startDate": "2018-06-01",
       "endDate": "2014-08-01",
-      "score": "10",
-      "courses": [""]
+      "score": "10"
     }
   ],
   "awards": [
