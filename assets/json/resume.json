@@ -75,24 +75,13 @@
     {
       "institution": "University of Texas at San Antonio",
       "location": "San Antonio, USA",
-      "url": "https://www.utsa.edu/",
+      "url": "",
       "area": "Electrical Engineering",
       "studyType": "PhD",
       "startDate": "2021-01-01",
       "endDate": "2024-12-01",
       "score": "10",
       "courses": ["Motion Planning for relationational Maneuvering of Unmanned Aerial Vehicles with Limted Information. "]
-    },
-    {
-      "institution": "Indian Institute of Technology, Knapur",
-      "location": "Kanpur, India",
-      "url": "https://www.iitk.ac.in/",
-      "area": "Aerospace Engineering",
-      "studyType": "Masters of Technology",
-      "startDate": "2019-06-01",
-      "endDate": "2018-08-01",
-      "score": "10",
-      "courses": ["High-fidelity Flight Dynamics modelling using Deep-Learning"]
     }
   ],
   "awards": [
