@@ -81,7 +81,18 @@
       "startDate": "2021-01-01",
       "endDate": "2024-12-01",
       "score": "10",
-      "courses": ["Motion Planning for relationational Maneuvering of Unmanned Aerial Vehicles with Limted Information. "]
+      "courses": ["Thesis: Motion Planning for relationational Maneuvering of Unmanned Aerial Vehicles with Limted Information. "]
+    },
+    {
+      "institution": "Indian Institute of Technology, Kanpur",
+      "location": "Kanpur, India",
+      "url": "www.ttk.ac.in",
+      "area": "Aerospace Engineering",
+      "studyType": "Masters of Technology",
+      "startDate": "2019-06-01",
+      "endDate": "2018-08-01",
+      "score": "10",
+      "courses": ["Thesis: High-Fidelity Flight Dynamics Modelling using Deep Learing. "]
     }
   ],
   "awards": [
