@@ -93,6 +93,17 @@
       "endDate": "2018-08-01",
       "score": "10",
       "courses": ["Thesis: High-Fidelity Flight Dynamics Modelling using Deep Learing. "]
+    },
+    {
+      "institution": "Indian Institute of Technology, Kanpur",
+      "location": "Kanpur, India",
+      "url": "www.ttk.ac.in",
+      "area": "Aerospace Engineering",
+      "studyType": "Bachelors of Technology",
+      "startDate": "2018-06-01",
+      "endDate": "2014-08-01",
+      "score": "10",
+      "courses": [" "]
     }
   ],
   "awards": [
