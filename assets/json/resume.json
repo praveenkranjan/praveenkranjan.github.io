@@ -31,33 +31,6 @@
       "endDate": "2024-12-01",
       "summary": "Unmanned Systems Laboratory",
       "highlights": ["Department of Electrical and Computer Engineering"]
-    },
-    {
-      "name": "University of Texas at San Antonio",
-      "position": "Graduate Teaching Assistant",
-      "url": "",
-      "startDate": "2021-01-01",
-      "endDate": "2021-06-01",
-      "summary": "Course: Senior Design",
-      "highlights": ["Department of Electrical and Computer Engineering"]
-    },    
-    {
-      "name": "Indian Institute of Technology, Kanpur, India",
-      "position": "Teaching Assistant",
-      "url": "",
-      "startDate": "2019-08-01",
-      "endDate": "2018-08-01",
-      "summary": "Course: Engineering Drawing",
-      "highlights": ["Department of Aerospace Engineering"]
-    },
-    {
-      "name": "Indian Institute of Technology, Kanpur, India",
-      "position": "Senior Project Engineer",
-      "url": "",
-      "startDate": "2019-08-01",
-      "endDate": "2020-12-01",
-      "summary": "VTOL and Helicopter Laboratory",
-      "highlights": ["Department of Aerospace Engineering"]
     }
   ],
   "volunteer": [
