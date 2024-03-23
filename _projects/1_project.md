@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title:  Flexible Formation of Unmanned Aerial Vehicles
+    title: Leader-Follower Flexible Formation 
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
