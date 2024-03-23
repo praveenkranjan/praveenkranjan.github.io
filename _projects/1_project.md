@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Motion-Planning of Multi-agent Systems
+title: Flexible Formation of Unmanned Aerial Vehicles
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Motion-Planning of Multi-agent Systems
 related_publications: true
 ---
 
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title:  Motion-Planning of Multi-agent Systems
+    title:  Flexible Formation of Unmanned Aerial Vehicles
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
