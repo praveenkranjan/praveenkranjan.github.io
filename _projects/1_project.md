@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Flexible Formation of Unmanned Aerial Vehicles
+title: Leader-Follower Flexible Formation 
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: Motion-Planning of Multi-agent Systems
+category: Motion-Planning 
 related_publications: true
 ---
 
