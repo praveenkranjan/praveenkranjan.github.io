@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Flexible Formation Control of Unmanned Aerial Vehicles
+title: Safe Target-Enclosing with Linited Information.
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Motion-Planning of Multi-agent Systems
 giscus_comments: true
 ---
 
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: Flexible Formation Control of Unmanned Aerial Vehicles
+    title: Safe Target-Enclosing with Linited Information.
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
