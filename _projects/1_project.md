@@ -16,8 +16,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: Leader-Follower Flexible Formation Flight
+    description: Novel notion of flexible formation where the follower can take-up multitude of positions with respect to leader.
     img: /assets/img/12.jpg
     ---
 
