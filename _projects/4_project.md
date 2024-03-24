@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Flight Dynamics Modeling and System Identification.
+title: project 4
 description: another without an image
 img:
-importance: 1
-category: [Flight Dynamics]
+importance: 3
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
@@ -15,7 +15,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title:  Flight Dynamics Modeling and System Identification.
+    title: project
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
