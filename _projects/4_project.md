@@ -4,7 +4,7 @@ title: Flight Dynamics Modeling and System Identification.
 description: another without an image
 img:
 importance: 3
-category: [Motion-Planning]
+category: [Motion Planning]
 ---
 
 Every project has a beautiful feature showcase page.
