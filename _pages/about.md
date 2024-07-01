@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Graduadte Reasearch Fellow<a href='#'>Unmanned Systems Laboratory</a> University of Texas at San Antonio, Texas 78249
 
 profile:
   align: right
