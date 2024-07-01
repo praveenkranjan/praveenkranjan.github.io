@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: pk<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Unmanned Systems Laboratory</a>. University of Texas at San Antonio.
 
 profile:
   align: right
