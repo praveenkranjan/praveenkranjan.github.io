@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Research Fellow| Department of Electrical Engineering| Klese College of Integrated and Engineering Design
+subtitle: <span style='font-size:0.8em;'>Graduate Research Fellow| Department of Electrical Engineering| College of Integrated and Engineering Design</span>
 
 profile:
   align: right
