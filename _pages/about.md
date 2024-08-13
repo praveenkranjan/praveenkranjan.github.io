@@ -12,6 +12,7 @@ profile:
     <p>Unmanned Systems Laboratory</p>
     <p>The University of Texas at San Antonio</p>
     <p>San Antonio, Texas 78249</p>
+    <span style="font-size:0.5em;">Text goes here</span>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
