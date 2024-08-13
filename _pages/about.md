@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Unmanned Systems Laboratory</p>
+    <p><span style="font-size:1.5em;">Unmanned Systems Laboratory</span></p>
     <p>The University of Texas at San Antonio</p>
     <p>San Antonio, Texas 78249</p>
-    <span style="font-size:0.5em;">Text goes here</span>
+    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
