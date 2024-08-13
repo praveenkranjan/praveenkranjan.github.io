@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Graduate Research Fellow| Department of Electrical Engineering| Klese College of Integrated and Engineering Design
 
 profile:
   align: right
