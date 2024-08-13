@@ -19,4 +19,5 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <p>I am currently pursuing my Ph.D. degree in electrical engineering at the University of Texas at San Antonio.</p>
-Prior to this, I worked as a project engineer at the VTOL and helicopter laboratory at the Indian Institute of Technology, Kanpur (IITK). He received his B. Tech and M. Tech degrees in Aerospace Engineering from IITK in 2019. My research interests include autonomous guidance and control, motion-planning of multi-agent systems, system identification, and flight dynamics modeling.
+<p>Prior to this, I worked as a project engineer at the VTOL and helicopter laboratory at the Indian Institute of Technology, Kanpur (IITK). He received his B. Tech and M. Tech degrees in Aerospace Engineering from IITK in 2019.</p> 
+<p>My research interests include autonomous guidance and control, motion-planning of multi-agent systems, system identification, and flight dynamics modeling.</p>
