@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leader-follower Flexible formation
-description: 
+description: with
 img: assets/img/12.jpg
 importance: 1
 category: Relational Maneuvering Guidance and Control
