@@ -1,25 +1,29 @@
 ---
 layout: page
-title: Leader-Follower Flexible Formation Flight
-description: 
+title: project 1
+description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Relational Maneuvering Guidance and Control
+category: work
 related_publications: true
 ---
 
-We present a novel formation strategy for a leader-follower unmanned aerial vehicle (UAV) system, drawing inspiration from the behavior of human pilots. In our approach, the formation geometry is not restricted to remain fixed as the vehicles maneuver. This means that the position and orientation of the follower UAV in relation to the leader UAV can change while adhering to certain constraints. Our strategy aims to maintain a desired fixed relative distance between the follower and leader UAVs, allowing for variations in their orientation. This flexibility in orientation helps reduce control effort for the follower UAV and offers tactical advantages. We term this approach as a "flexible relational maneuvering scheme" since the follower UAV is not constrained to a predetermined set of feasible positions, as is typical in close-proximity two-ship formations in air-to-air combat. Our approach seeks to replicate the behavior of human pilots in UAVs by implementing anticipatory maneuvers when the leader UAV executes aggressive turns.
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
-    title: Leader-Follower Flexible Formation Flight
-    description: Novel notion of flexible formation where the follower can take-up multitude of positions with respect to leader.
+    title: project
+    description: a project with a background image
     img: /assets/img/12.jpg
     ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
