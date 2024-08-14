@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leader-Follower Flexible Formation Flight
-description: a project with a background image
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: Relational Maneuvering Guidance and Control
