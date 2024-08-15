@@ -25,6 +25,7 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
 <div class="caption">
     FBFM with different desired bearing angles. 
 </div>
+<img src="{{ site.baseurl }}/assets/img/flex_form/flex_form_web_1.gif" alt="example image" style="width: 60%; height: auto;" />
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flex_form/flex_form_web_1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
