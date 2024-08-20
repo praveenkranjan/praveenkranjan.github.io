@@ -14,14 +14,8 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flex_form/flex_form_web_1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-        Homogeneous leader UAV
-    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/flex_form/flex_form_web_3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="caption">
-        Heterogeneous leader UAV
+        {% include figure.liquid path="assets/img/flex_form/flex_form_web_4.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
