@@ -6,7 +6,7 @@ description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
 display_categories: [Relational Maneuvering Guidance and Control, Distributed Multi-agents Systems, Robotics]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
