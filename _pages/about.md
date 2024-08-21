@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p>I am currently pursuing my Ph.D. degree in electrical engineering at the University of Texas at San Antonio.</p>
+<p>Currently, I am pursuing a Ph.D. in Electrical Engineering (Systems & Controls) at the University of Texas at San Antonio, where my research focuses on motion planning for relational maneuvering of unmanned aerial vehicles (UAVs). My work involves developing guidance laws for UAVs to achieve desired behaviors, such as formation, enclosing, and swarming, with respect to other cooperative or uncooperative agents. A distinctive aspect of my research is integrating flexibility, safety, and robustness into motion planning, which ensures mathematical guarantees with limited information or reduced communication among agents. </p>
 <p>Prior to this, I worked as a project engineer at the VTOL and helicopter laboratory at the Indian Institute of Technology, Kanpur (IITK). He received his B. Tech and M. Tech degrees in Aerospace Engineering from IITK in 2019.</p> 
 <p>My research interests include autonomous guidance and control, motion-planning of multi-agent systems, system identification, and flight dynamics modeling.</p>
