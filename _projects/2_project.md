@@ -5,7 +5,6 @@ description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
 category: Relational Maneuvering Guidance and Control
-giscus_comments: true
 ---
 
 We present a novel formation strategy for a leader-follower unmanned aerial vehicle (UAV) system, drawing inspiration from the behavior of human pilots. In our approach, the formation geometry is not restricted to remain fixed as the vehicles maneuver. This means that the position and orientation of the follower UAV in relation to the leader UAV can change while adhering to certain constraints. Our strategy aims to maintain a desired fixed relative distance between the follower and leader UAVs, allowing for variations in their orientation. This flexibility in orientation helps reduce control effort for the follower UAV and offers tactical advantages. We term this approach as a "flexible relational maneuvering scheme" since the follower UAV is not constrained to a predetermined set of feasible positions, as is typical in close-proximity two-ship formations in air-to-air combat. Our approach seeks to replicate the behavior of human pilots in UAVs by implementing anticipatory maneuvers when the leader UAV executes aggressive turns.
