@@ -33,7 +33,7 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
 <div class="caption">
     FBFM Flight Experiments results. 
 </div>
-## related publications
+## Related Publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_2]* %}
   {% bibliography -f papers -q @*[key=new_2]* %}
