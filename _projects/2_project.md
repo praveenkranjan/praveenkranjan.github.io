@@ -12,16 +12,17 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/regionsofoper.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/safe_enc/regionsofoper_vid.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>    
+</div>
+<div class="caption">
+    Safe Region for Pursuer movement while enclosing the Target. 
 </div>
 <div class="row justify-content-sm-center">
     <iframe width="720" height="540" align="center" src="https://www.youtube.com/embed/zmdImaB7bp0" title="Software-in-the-loop simulations with tuned autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div class="caption">
-    FBFM with different desired bearing angles. 
-</div>
+
 <div class ="row justify-content-sm-center">
     {% include figure.liquid loading="eager" path="assets/img/flex_form/flex_form_web_2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
