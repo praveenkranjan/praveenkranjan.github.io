@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
+title: Deep Learning for Helicopter Flight Dynamics modelling
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
-category: Relational Maneuvering Guidance and Control
+category: System Identification and Flight Dynamics Modelling
 ---
 
 Every project has a beautiful feature showcase page.
