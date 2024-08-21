@@ -1,13 +1,18 @@
 ---
 layout: page
-title: project 3
+title: Self-organizing Mutlti-pursuer Target Enclosing.
 description: a project that redirects to another website
 img: assets/img/7.jpg
 importance: 1
 category: Distributed Multi-agents Systems
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WtOXZEgjznWgZoD3&amp;list=PLSaNz7HdVhmsp7JV57Wf20So7B4bMDKTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <iframe width="720" height="520" src="https://www.youtube.com/embed/videoseries?si=WtOXZEgjznWgZoD3&amp;list=PLSaNz7HdVhmsp7JV57Wf20So7B4bMDKTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
