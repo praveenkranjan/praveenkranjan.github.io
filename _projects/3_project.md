@@ -3,9 +3,8 @@ layout: page
 title: project 3
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 5
-category: Relational Maneuvering Guidance and Control
+importance: 1
+category: Distributed Multi-agents Systems
 ---
 
 Every project has a beautiful feature showcase page.
