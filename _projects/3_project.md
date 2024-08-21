@@ -9,7 +9,10 @@ category: Distributed Multi-agents Systems
 
 
 <div class="row justify-content-sm-center">
-    <iframe width="720" height="520" src="https://www.youtube.com/embed/videoseries?si=WtOXZEgjznWgZoD3&amp;list=PLSaNz7HdVhmsp7JV57Wf20So7B4bMDKTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="720" height="540" align="center" src="https://www.youtube.com/embed/zmdImaB7bp0" title="Software-in-the-loop simulations with tuned autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Safe Target enclosing quadrotor Software-In-the-loop simulation results 
 </div>
 
 Every project has a beautiful feature showcase page.
