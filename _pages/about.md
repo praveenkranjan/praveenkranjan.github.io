@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style='font-size:1.2em;'>Graduate Research Fellow| Department of Electrical Engineering| University of Texas at San Antonio</span>
+subtitle: <span style='font-size:1.0em;'>Graduate Research Fellow| Department of Electrical Engineering| University of Texas at San Antonio</span>
 
 profile:
   align: right
