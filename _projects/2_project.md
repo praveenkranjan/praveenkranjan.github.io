@@ -26,5 +26,5 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
 ## Related Publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_2]* %}
-  {% bibliography -f papers -q @*[key=doi:10.2514/6.2023-2642]* %}
+  {% bibliography -f papers -q @*[key=doi:10.2514/6.2024-0124]* %}
 </div>
