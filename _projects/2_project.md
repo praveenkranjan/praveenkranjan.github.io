@@ -12,7 +12,7 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_inc/regionsofoper.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/safe_enc/regionsofoper.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>    
 </div>
 <div class="caption">
