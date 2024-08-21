@@ -5,7 +5,6 @@ description: #
 img: assets/img/12.jpg
 importance: 1
 category: Relational Maneuvering Guidance and Control
-related_publications: true
 references: new_3
 ---
 
