@@ -16,6 +16,5 @@ category: Distributed Multi-agents Systems
 
 ## Related Publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=new_2]* %}
-  {% bibliography -f papers -q @*[key=doi:10.2514/6.2023-2642]* %}
+  {% bibliography -f papers -q @*[key=new_4]* %}  
 </div>
