@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style='font-size:1.0em;'>Graduate Research Fellow| Department of Electrical Engineering| University of Texas at San Antonio</span>
+subtitle: <span style='font-size:1.0em;'>Graduate Research Fellow| Department of Electrical Engineering</span>
 
 profile:
   align: right
@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p>Currently, I am pursuing a Ph.D. in Electrical Engineering (Systems & Controls) at the University of Texas at San Antonio, where my research focuses on motion planning for relational maneuvering of unmanned aerial vehicles (UAVs). My work involves developing guidance laws for UAVs to achieve desired behaviors, such as formation, enclosing, and swarming, with respect to other cooperative or uncooperative agents. A distinctive aspect of my research is integrating flexibility, safety, and robustness into motion planning, which ensures mathematical guarantees with limited information or reduced communication among agents. </p>
-<p>Prior to this, I earned my Bachelor's and master’s degrees in aerospace engineering from the prestigious Indian Institute of Technology, Kanpur. My master's thesis focused on creating a hybrid flight dynamics model for a helicopter UAV, combining traditional system identification methods with deep learning to achieve stable, long-duration simulations. </p> 
-<p>My research interests include autonomous guidance and control, motion-planning of multi-agent systems, system identification, and flight dynamics modeling.</p>
+<p>Pursuing a Ph.D. in Electrical Engineering (Systems & Controls) at the University of Texas at San Antonio, I focus my research on motion planning for the cooperative and adversarial maneuvering of unmanned aerial vehicles (UAVs). My work primarily involves developing advanced guidance laws that enable UAVs to achieve specific behaviors such as formation flying, enclosing, and swarming, whether in coordination with other UAVs or in response to uncooperative agents. A key feature of my research is the integration of flexibility, safety, and robustness into motion planning algorithms, ensuring that these systems can operate reliably with limited information or reduced communication between agents while maintaining strong mathematical guarantees. </p>
+<p>Before embarking on my Ph.D., I served as a project engineer at the VTOL and Helicopter Laboratory, where I developed a Hardware-in-the-Loop (HITL) simulation framework for helicopter UAVs. My academic background includes both a Bachelor's and a Master's degree in Aerospace Engineering from the prestigious Indian Institute of Technology, Kanpur. My master's thesis involved the development of a hybrid flight dynamics model for a helicopter UAV, which combined traditional system identification techniques with deep learning approaches to produce stable, long-duration simulations. </p> 
+<p>My research interests encompass a broad range of topics within the field of autonomous systems, particularly in the areas of autonomous guidance and control, motion planning for multi-agent systems, system identification, and flight dynamics modeling.</p>
