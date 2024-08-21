@@ -15,6 +15,7 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
         {% include figure.liquid path="assets/img/safe_enc/regionsofoper.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>    
 </div>
+<iframe width="1177" height="689" src="https://www.youtube.com/embed/zmdImaB7bp0" title="Software-in-the-loop simulations with tuned autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div class="caption">
     FBFM with different desired bearing angles. 
 </div>
