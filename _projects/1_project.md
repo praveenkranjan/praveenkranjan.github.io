@@ -35,6 +35,6 @@ We present a novel formation strategy for a leader-follower unmanned aerial vehi
 </div>
 ## related publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=einstein1956investigations]* %}
-  {% bibliography -f papers -q @*[key=einstein1950meaning]* %}
+  {% bibliography -f papers -q @*[key=new_2]* %}
+  {% bibliography -f papers -q @*[key=new_2]* %}
 </div>
