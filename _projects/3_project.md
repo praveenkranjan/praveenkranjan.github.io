@@ -14,9 +14,7 @@ category: Distributed Multi-agents Systems
 <div class="caption">
     Target enclosing   
 </div>
-
 ## Related Publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_4]* %}  
 </div>
-
