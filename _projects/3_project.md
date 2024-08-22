@@ -12,18 +12,21 @@ This paper introduces an approach to address the target enclosing problem using 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="480" height="320" src="https://www.youtube.com/embed/41CYyGR0am4?list=PLSaNz7HdVhmsp7JV57Wf20So7B4bMDKTX" title="results 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="808" height="689" src="https://www.youtube.com/embed/KnJGf8HY3r0?list=PLSaNz7HdVhmsp7JV57Wf20So7B4bMDKTX" title="results 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qLm7MDObm7d63ewp&amp;list=PLSaNz7HdVhmsp7JV57Wf20So7B4bMDKTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-<div class="caption">
-    Target enclosing   
-</div>
+
 ## Related Publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_4]* %}  
