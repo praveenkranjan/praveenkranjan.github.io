@@ -11,7 +11,7 @@ In this paper, we address the problem of enclosing an arbitrarily moving target 
 arbitrarily maneuvering targets, vehicle/autopilot dynamics, and external disturbances. Our method consistently delivers stable global enclosing behaviors, even in response to aggressive target maneuvers, and requires only relative information for successful execution.
 
 <div class="row justify-content-sm-center">
-    <iframe width="1177" height="689" src="https://www.youtube.com/embed/zmdImaB7bp0" title="Software-in-the-loop simulations with tuned autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="720" height="540" src="https://www.youtube.com/embed/zmdImaB7bp0" title="Software-in-the-loop simulations with tuned autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <div class="caption">
     Target enclosing   
