@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Self-organizing Mutlti-agent Target Enclosing.
+title: <h5>Self-organizing Mutlti-agent Target Enclosing.</h5>
 description: #
 img: assets/img/safe_enc/self_org.gif
 importance: 1
