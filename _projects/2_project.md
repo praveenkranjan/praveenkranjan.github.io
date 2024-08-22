@@ -4,7 +4,7 @@ title: Safe Target Enclosing
 description: a project that redirects to another website
 img: assets/img/7.jpg
 importance: 2
-category: Relational Maneuvering for Guidance and Control
+category: Relational Maneuvering Guidance and Control
 ---
 
 <div class="row justify-content-sm-center">
