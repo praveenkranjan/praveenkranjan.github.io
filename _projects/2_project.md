@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Safe Target Enclosing
-description: a project with a background image
-img: assets/img/flex_form/flex_form_web_1.gif
+description: #
+img: assets/img/safe_enc/safe_enc_v1.gif
 importance: 2
 category: Relational Maneuvering Guidance and Control
 ---
