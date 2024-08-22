@@ -3,7 +3,7 @@ layout: page
 title: Self-organizing Mutlti-agent Target Enclosing.
 description: a project that redirects to another website
 img: assets/img/7.jpg
-importance: 1
+importance: 2
 category: Relational Maneuvering for Guidance and Control
 ---
 
