@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leader-follower Flexible formation
+title: <h5>Leader-follower Flexible formation</h5>
 description: #
 img: assets/img/flex_form/flex_form_web_1.gif
 importance: 1
