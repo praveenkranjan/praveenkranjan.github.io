@@ -3,7 +3,7 @@ layout: page
 title: Motion planning for Mobile Manipulator
 description: another without an image
 img:
-importance: 3
+importance: 1
 category: Robotics
 ---
 
