@@ -14,13 +14,20 @@ arbitrarily maneuvering targets, vehicle/autopilot dynamics, and external distur
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/safe_enc/inertialengagement.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/losengagement.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
+<div class="row justify-content-sm-center">
+    <div class="caption">
+        Pursuer Target Engagement geometry
+    </div>
+</div>    
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/safe_enc/regionsofoper_vid.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="caption">
+        Safe region for pursuer movement around the target
     </div>
 </div>
 <div class="row justify-content-sm-center">
