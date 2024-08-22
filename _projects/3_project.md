@@ -3,7 +3,7 @@ layout: page
 title: Self-organizing Mutlti-agent Target Enclosing.
 description: #
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/safe_enc/self_org.gif
 importance: 1
 category: Distributed Multi-agents Systems
 ---
