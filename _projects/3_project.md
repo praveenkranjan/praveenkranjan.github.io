@@ -6,6 +6,7 @@ img: assets/img/7.jpg
 importance: 1
 category: Distributed Multi-agents Systems
 ---
+
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-6 mt-md-0">
         <iframe width="480" height="320" src="https://www.youtube.com/embed/41CYyGR0am4?list=PLSaNz7HdVhmsp7JV57Wf20So7B4bMDKTX" title="results 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
