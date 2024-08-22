@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Relational Maneuvering Guidance and Control]
+display_categories: [Relational Maneuvering Guidance and Control, Distributed Multi-agents Systems, Robotics, System Identification and Flight Dynamics Modelling]
 horizontal: false
 ---
 
