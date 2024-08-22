@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 2
-display_categories: [Relational Maneuvering Guidance and Control, Distributed Multi-agents Systems, Robotics, System Identification and Flight Dynamics Modelling]
+nav_order: 3
+display_categories: [Relational Maneuvering Guidance and Control]
 horizontal: false
 ---
 
@@ -22,14 +22,14 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -48,14 +48,14 @@ horizontal: false
 {% if page.horizontal %}
 
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
