@@ -19,6 +19,11 @@ arbitrarily maneuvering targets, vehicle/autopilot dynamics, and external distur
     </div>
 </div>
 <div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/regionsofoper_vid.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
     <iframe width="720" height="540" src="https://www.youtube.com/embed/zmdImaB7bp0" title="Software-in-the-loop simulations with tuned autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <div class="caption">
