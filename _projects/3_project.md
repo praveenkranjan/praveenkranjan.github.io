@@ -2,7 +2,7 @@
 layout: page
 title: <h5>Self-organizing Mutlti-agent Target Enclosing.</h5>
 description: #
-img: assets/img/safe_enc/self_org.gif
+img: assets/img/safe_enc/self_org_f1.gif
 importance: 1
 category: Distributed Multi-agents Systems
 ---
