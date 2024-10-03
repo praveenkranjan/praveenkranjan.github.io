@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h5>Flexible and Safe Multi-Vehicle Motion Planning for Relational Maneuvering</h5>
+title: <h5>Multi-Vehicle Motion Planning for Relational Maneuvering</h5>
 description: #
 img: assets/img/flex_form/flex_form_web_1.gif
 importance: 1
