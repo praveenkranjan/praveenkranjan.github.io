@@ -6,6 +6,7 @@ img: assets/img/flex_form/flex_form_web_1.gif
 importance: 1
 category: Relational Maneuvering Guidance and Control
 ---
+
 In the field of autonomous systems, multi-vehicle coordination is crucial for achieving complex missions involving UAVs. My research focuses on developing flexible and safe motion planning strategies for relational maneuvering, where multiple UAVs operate in coordination to maintain specific formations and adapt to dynamic mission requirements. By integrating safety constraints with flexible control mechanisms, I aim to enhance UAV performance in tasks such as target tracking, formation flying, and area coverage. These approaches allow UAVs to navigate safely while responding to unpredictable changes in the environment, ensuring reliable and robust operations in real-world scenarios.
 
 # Flexible Leader-Follower formation control
