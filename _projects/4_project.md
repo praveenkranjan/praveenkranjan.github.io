@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h5>Motion planning for Mobile Manipulator</h5>
+title: <h5>Guidance and Control for Autonomous Robots</h5>
 description: another without an image
 img:
 importance: 1
