@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h5>Leader-follower Flexible formation</h5>
+title: <h5>Safety and Felexibity in Motion planning for Relational Maneuvering</h5>
 description: #
 img: assets/img/flex_form/flex_form_web_1.gif
 importance: 1
