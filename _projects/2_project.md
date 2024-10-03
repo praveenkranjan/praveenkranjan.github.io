@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h5>Safe Target Enclosing</h5>
+title: <h5>Distributed multi-agent Systems</h5>
 description: #
 img: assets/img/safe_enc/safe_enc_v1.gif
 importance: 2
