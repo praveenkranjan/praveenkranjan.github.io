@@ -3,7 +3,7 @@ layout: page
 title: <h5>Learning for Dynamics and Control</h5>
 description: #
 img: assets/img/safe_enc/self_org_f1.gif
-importance: 1
+importance: 4
 category: Distributed Multi-agents Systems
 ---
 
