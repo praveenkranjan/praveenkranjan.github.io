@@ -27,18 +27,6 @@ Inspired by the behavior of human pilots we present a novel formation strategy f
 <div class="caption">
     FBFM  
 </div>
-<div class ="row justify-content-sm-center">
-    {% include figure.liquid loading="eager" path="assets/img/flex_form/flex_form_web_2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="caption">
-    FBFM Software in the Loop Simulation results. 
-</div>
-<div class ="row justify-content-sm-center">
-    {% include figure.liquid loading="eager" path="assets/img/flex_form/flex_form_web_3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="caption">
-    FBFM Flight Experiments results. 
-</div>
 ## Related Publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_2]* %}
