@@ -33,6 +33,7 @@ Inspired by the behavior of human pilots we present a novel formation strategy f
 <div class="caption">
     FBFM  
 </div>
+## Energy-efficient Ring Formation Control
 ## Related Publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_2]* %}
