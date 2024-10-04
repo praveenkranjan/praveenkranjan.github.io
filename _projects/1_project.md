@@ -17,7 +17,7 @@ Inspired by the behavior of human pilots, we present a novel formation strategy 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/flex_form/flex_form.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/flex_form/flexible_form.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
@@ -41,7 +41,7 @@ This paper focuses on developing an energy-efficient control algorithm for a typ
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/flex_form/flex_form.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/flex_form/flexible_form.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
