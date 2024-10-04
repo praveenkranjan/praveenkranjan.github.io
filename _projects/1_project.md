@@ -61,4 +61,5 @@ This paper focuses on developing an energy-efficient control algorithm for a typ
 
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_2]* %}
+  {% bibliography -f papers -q @*[key=new_2]* %}  
 </div>
