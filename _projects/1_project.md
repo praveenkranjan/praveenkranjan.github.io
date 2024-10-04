@@ -20,7 +20,7 @@ Inspired by the behavior of human pilots we present a novel formation strategy f
     </div>
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flex_form/flex_form_web_4.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
