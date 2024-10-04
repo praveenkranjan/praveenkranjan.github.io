@@ -15,11 +15,20 @@ Inspired by the behavior of human pilots we present a novel formation strategy f
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flex_form/flex_form.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Fixed Bearing angle Formation Maneuvering (FBFM)  
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flex_form/flex_form_web_4.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    FBFM  
+    FBFM  Follower Behavior
 </div>
 
 ### Energy-efficient Ring Formation Control
