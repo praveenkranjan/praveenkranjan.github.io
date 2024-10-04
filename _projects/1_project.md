@@ -37,7 +37,25 @@ Inspired by the behavior of human pilots, we present a novel formation strategy 
 
 ### <span style="font-weight: bold; font-size: 24px;">Energy-Efficient Ring Formation Control</span>
 
-Research in this area focuses on optimizing formation control with energy-efficient algorithms that minimize UAV energy consumption while maintaining optimal flight paths. These strategies enhance overall operational performance and are designed for large-scale multi-UAV systems.
+This paper focuses on developing an energy-efficient control algorithm for a type of leader-follower aircraft formation, namely, ring formation, where the follower seeks to track a virtual circle, also called a ring, whose center is behind the leader along the leader's heading direction. Enabling this type of ring formation allows the follower to maintain a certain geometric configuration with respect to the leader, but not a rigid structure that is often hard for the follower to maintain in, e.g., turning maneuvers. Meanwhile, the flexibility in a ring formation lies in the fact that the follower can stay on any point on the ring, thus helping save thrust-related energy consumption and addressing inherent physical constraints. Towards this objective, we develop a new controller using the backstepping technique and use nonlinear dynamic programming to address the control input constraints. First, we show that the minimum speed point on the ring can yield the lowest energy consumption. We then provide a specific control design based on backstepping for the follower to track the minimum speed point on the ring. To address the physical input constraints, we propose to use nonlinear dynamic programming to optimize the control inputs subject to control saturation. Finally, we present simulation results to demonstrate the effectiveness of the proposed approach in saving energy and addressing control input constraints.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flex_form/flex_form.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
+    Fixed Bearing Angle Formation Maneuvering (FBFM)
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flex_form/flex_form_web_4.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
+    FBFM Follower Behavior
+</div>
 
 ## Related Publications
 
