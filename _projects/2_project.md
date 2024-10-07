@@ -23,6 +23,14 @@ Inspired by the behavior of human pilots, we present a novel formation strategy 
         {% include figure.liquid path="assets/img/safe_enc/self_org_f2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org_f3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
     Fixed Bearing Angle Formation Maneuvering (FBFM)
 </div>
