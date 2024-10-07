@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h5>Multi-Vehicle Motion Planning for Relational Maneuvering</h5>
+title: <h3>Multi-Vehicle Motion Planning for Relational Maneuvering</h3>
 description: "Research on flexible and safe motion planning strategies for relational maneuvering using UAVs."
 img: assets/img/flex_form/flex_form_web_1.gif
 importance: 1
