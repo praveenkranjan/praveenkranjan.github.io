@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <h3>Distributed Multi-agent Systems and Controls</h3>
-description: "Research on flexible and safe motion planning strategies for relational maneuvering using UAVs."
+title: <h4>Distributed Multi-agent Systems and Controls</h4>
+description: ""
 img: assets/img/safe_enc/self_org.gif
 importance: 1
 category: Relational Maneuvering Guidance and Control
