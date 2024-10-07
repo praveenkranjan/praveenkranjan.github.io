@@ -32,7 +32,7 @@ Inspired by the behavior of human pilots, we present a novel formation strategy 
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Fixed Bearing Angle Formation Maneuvering (FBFM)
+    Autonomous organization of multiple pursuers on the enclosing shape around the target
 </div>
 
 <hr> <!-- Adding a line to separate sections -->
