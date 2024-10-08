@@ -7,7 +7,7 @@ importance: 1
 category: Relational Maneuvering Guidance and Control
 ---
 
-In the field of autonomous systems, multi-vehicle coordination is crucial for achieving complex missions involving UAVs. My research focuses on developing flexible and safe motion planning strategies for relational maneuvering, where multiple UAVs operate in coordination to maintain specific formations and adapt to dynamic mission requirements. By integrating safety constraints with flexible control mechanisms, I aim to enhance UAV performance in tasks such as target tracking, formation flying, and area coverage. These approaches allow UAVs to navigate safely while responding to unpredictable changes in the environment, ensuring reliable and robust operations in real-world scenarios.
+In the realm of distributed multi-agent systems, achieving effective coordination among agents while minimizing information exchange is paramount. This research focuses on innovative control strategies that allow agents to maintain flexible formations without relying on predetermined structures. By leveraging decentralized decision-making processes, our approach empowers agents to adapt their positions and orientations in response to dynamic environments and varying mission requirements. This flexibility enhances the system's robustness, enabling agents to operate efficiently even in the face of uncertainties and limited global information. Through our work, we aim to redefine the possibilities of multi-agent coordination, paving the way for more resilient and adaptable autonomous systems.
 
 <hr> <!-- Adding a line to separate sections -->
 
