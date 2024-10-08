@@ -35,43 +35,6 @@ This paper presents a novel approach to addressing the challenges of safe target
 
 <hr> <!-- Adding a line to separate sections -->
 
-### <span style="font-weight: bold; font-size: 24px;">Safe And Flexible Target-Enclosing</span>
-
-In this work, we focuses on developing advanced guidance strategies for unmanned aerial vehicles (UAVs) to safely enclose moving targets in three-dimensional space. Our approach prioritizes both safety and flexibility, allowing UAVs to maintain optimal distance while adapting to dynamic environments. By leveraging nonholonomic constraints and innovative control techniques, we ensure collision avoidance and robust performance, even in challenging scenarios. This solution is designed to handle complex target maneuvers, offering reliable and resilient UAV operations in real-time applications.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/inertialengagement.png" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Pursuer-Target Engagement Geometry
-        </div>
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/regionsofoper.png" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Safe region for pursuer motion offering mutliple stable enclosing trajectories around the target
-        </div>
-    </div>
-</div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/safe_enc_sta_r3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Stationary Target
-        </div>
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/safe_enc_stline_r3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Target Moving in straight line
-        </div>
-    </div>
-</div>
-<div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-   The pursuer adapts between stable enclosing trajectories as needed, ensuring robustness against uncertainties such as modeling inaccuracies, measurement errors, and external disturbances.
-</div>
-
 ## Related Publications
 
 <div class="publications">
