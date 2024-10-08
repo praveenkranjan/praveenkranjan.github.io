@@ -2,7 +2,7 @@
 layout: page
 title: <h5>Guidance and Control for Autonomous Robots</h5>
 description: another without an image
-img:
+img: assets/img/guide_ctrl/self_org.gif
 importance: 3
 category: Robotics
 ---
