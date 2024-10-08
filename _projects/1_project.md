@@ -60,6 +60,8 @@ This paper focuses on developing an energy-efficient control algorithm for a typ
 ## Related Publications
 
 <div class="publications">
-  {% bibliography -f papers -q @*[key=new_2]* %}
-  {% bibliography -f papers -q @*[key=new_2]* %}  
+  {% bibliography -f papers -q @*[key=new_3]* %}
+  {% bibliography -f papers -q @*[key=new_1]* %}
+  {% bibliography -f papers -q @*[key=10.2514/1.G007057]* %}
+  {% bibliography -f papers -q @*[key=10.2514/6.2022-2217]* %}
 </div>
