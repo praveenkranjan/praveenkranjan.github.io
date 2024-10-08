@@ -77,6 +77,5 @@ In this work, we focuses on developing advanced guidance strategies for unmanned
 ## Related Publications
 
 <div class="publications">
-  {% bibliography -f papers -q @*[key=new_4]* %}
-  {% bibliography -f papers -q @*[key=new_2]* %}  
+  {% bibliography -f papers -q @*[key=doi:10.2514/6.2024-0124]* %}
 </div>
