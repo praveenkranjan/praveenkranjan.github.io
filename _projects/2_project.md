@@ -42,13 +42,20 @@ Inspired by the behavior of human pilots, we present a novel formation strategy 
 In this work, we focuses on developing advanced guidance strategies for unmanned aerial vehicles (UAVs) to safely enclose moving targets in three-dimensional space. Our approach prioritizes both safety and flexibility, allowing UAVs to maintain optimal distance while adapting to dynamic environments. By leveraging nonholonomic constraints and innovative control techniques, we ensure collision avoidance and robust performance, even in challenging scenarios. This solution is designed to handle complex target maneuvers, offering reliable and resilient UAV operations in real-time applications.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/inertialengagement.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Pursuer-Target Engagement Geometry
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/safe_enc/regionsofoper.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Safe region for pursuer motion offering mutliple stable enclosing trajectories around the target
+        </div>
     </div>
 </div>
-<div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Safe region for pursuer motion while enclosing the target
-</div>
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -65,7 +72,7 @@ In this work, we focuses on developing advanced guidance strategies for unmanned
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    The pursuer encloses the target switching between stable enclosing trajectories as necessary offering robustness to uncertainty 
+   The pursuer adapts between stable enclosing trajectories as needed, ensuring robustness against uncertainties such as modeling inaccuracies, measurement errors, and external disturbances.
 </div>
 
 ## Related Publications
