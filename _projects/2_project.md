@@ -59,6 +59,9 @@ In this paper, we address the problem of enclosing an arbitrarily moving target 
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/safe_enc/safe_enc_stline_r3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Target Moving in straight line
+        </div>
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
