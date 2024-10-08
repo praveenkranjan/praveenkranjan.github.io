@@ -19,13 +19,13 @@ This paper presents a novel approach to addressing the challenges of safe target
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flex_form/flex_form_web_2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Software-in-the-loop simulation enabling rapid testing of guidance algorithms before testing on actual flight.
+            Software-in-the-loop simulation used for testing the flexible formation guidance algorithms, ensuring readiness for real flight. 
         </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flex_form/flex_form_web_3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Flight experimentation for flexible leader-follower formation demonstrating the practicalit of our guidance approach. 
+            Flight experiments showcasing the practical implementation of flexible leader-follower formation control strategies.
         </div>
     </div>
 </div>
