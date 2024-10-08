@@ -18,21 +18,19 @@ This paper presents a novel approach to addressing the challenges of safe target
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/guide_ctrl/stline_autopilot.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Target moving in Straight line
+        </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/guide_ctrl/arb_autopilot.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/self_org_f3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Arbitrarily maneuvering target
+        </div>
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Autonomous organization of multiple pursuers on the enclosing shape around the target
+    Pursuer adapting for lag in autopilot dynamics to sucessfully enclose moving targets
 </div>
 
 <hr> <!-- Adding a line to separate sections -->
