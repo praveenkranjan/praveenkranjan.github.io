@@ -56,7 +56,6 @@ In this work, we focuses on developing advanced guidance strategies for unmanned
     </div>
 </div>
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/safe_enc/safe_enc_sta_r3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
