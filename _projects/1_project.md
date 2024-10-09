@@ -21,7 +21,7 @@ Inspired by the behavior of human pilots, we present a novel formation strategy 
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Fixed Bearing Angle Formation Maneuvering (FBFM), where the follower maintains fixed distance $$r_d$$ and fixed bearing angle $${\sigma_f}_d$$ (such that $$-\pi/2\vert\sigma_f\vert\pi/2$$).
+    Fixed Bearing Angle Formation Maneuvering (FBFM), where the follower maintains fixed distance $r_d$ and fixed bearing angle ${\sigma_f}_d$ (such that $-\pi/2\vert\sigma_f\vert\pi/2$).
 </div>
 
 <div class="row justify-content-sm-center">
