@@ -48,7 +48,19 @@ This paper focuses on developing an energy-efficient control algorithm for a typ
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Fixed Bearing Angle Formation Maneuvering (FBFM)
+    Leader-Follower Ring Formation
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flex_form/ringform_loit.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flex_form/ringform_stline.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
+    Leader-Follower Ring Formation 
 </div>
 
 ## Related Publications
