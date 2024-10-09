@@ -53,20 +53,20 @@ This paper focuses on developing an energy-efficient control algorithm for a typ
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/flex_form/ringform_loit.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/flex_form/ringform_stline.gif" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Leader moving in straight line.
         </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/flex_form/ringform_stline.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/flex_form/ringform_loit.gif" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Leader executing loiter maneuver.
         </div>
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    The Follower converges to any point on the virtual ring to maintain formation. 
+    The follower converges to a point on the virtual ring to maintain formation. When the leader moves in a straight line, the followers settle at different positions on the ring based on their initial conditions. However, when the leader performs a loiter maneuver, followers starting from different initial positions all converge to the same point on the virtual ring, which corresponds to the minimum speed required to maintain the formation. This demonstrates the flexibility of the follower in maintaining formation, adapting to the leader's maneuvers.
 </div>
 
 ## Related Publications
