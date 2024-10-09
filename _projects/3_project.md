@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h5>Learning for Dynamics and Control</h5>
+title: Learning for Dynamics and Control
 description: #
 img: assets/img/safe_enc/self_org_f1.gif
 importance: 4
