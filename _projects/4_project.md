@@ -11,7 +11,7 @@ The field of automatic guidance and control of unmanned systems is rapidly evolv
 
 <hr> <!-- Adding a line to separate sections -->
 
-### <span style="font-weight: bold; font-size: 24px;">Rapid prototyping of guidance algorithms for Unmanned aerial vehicles via Software in the Loop (SITL) and Hardware in the loop (HITL) simulations. Flight experiments were conducted on FVR-90, a fixed-wing vertical take-off and landing vehicle developed by L3Harris technologies. $$ a_1 $$ </span>
+### <span style="font-weight: bold; font-size: 24px;">Rapid prototyping of guidance algorithms for Unmanned aerial vehicles via Software in the Loop (SITL) and Hardware in the loop (HITL) simulations </span>
 
 In this work, we focus on the rapid development and testing of guidance algorithms for Unmanned Aerial Vehicles (UAVs) using Software-in-the-Loop (SITL) and Hardware-in-the-Loop (HITL) simulations. SITL allows for the testing of guidance strategies in a simulated environment that replicates real-world conditions, enabling rapid prototyping without the risk and expense of live flight tests. HITL further validates the algorithms by integrating actual UAV hardware components into the simulation loop, providing more realistic feedback on performance under real-world constraints such as sensor delays, actuator limits, and environmental disturbances. Together, these approaches accelerate the development process, ensuring that UAV guidance algorithms are robust, reliable, and ready for deployment in field operations.
 
@@ -19,7 +19,7 @@ In this work, we focus on the rapid development and testing of guidance algorith
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flex_form/flex_form_web_2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Software-in-the-loop simulation used for testing the flexible formation guidance algorithms, ensuring readiness for real flight. 
+            Software-in-the-loop simulation used for testing the flexible formation guidance algorithms, ensuring readiness for real flight. Flight experiments were conducted on FVR-90, a fixed-wing vertical take-off and anding vehicle developed by L3Harris technologies. 
         </div>
     </div>
 </div>
