@@ -1,13 +1,13 @@
 ---
 layout: page
-title: <h5>Guidance and Control for Autonomous Robots</h5>
+title: <h5>Autonomous Navigation and Control of Unmanned Vehicles</h5>
 description: ""
 img: assets/img/guide_ctrl/sta_sitl.gif
 importance: 3
 category: Robotics
 ---
 
-In the realm of distributed multi-agent systems, achieving effective coordination among agents while minimizing information exchange is paramount. This research focuses on innovative control strategies that allow agents to maintain flexible formations without relying on predetermined structures. By leveraging decentralized decision-making processes, our approach empowers agents to adapt their positions and orientations in response to dynamic environments and varying mission requirements. This flexibility enhances the system's robustness, enabling agents to operate efficiently even in the face of uncertainties and limited global information. Through our work, we aim to redefine the possibilities of multi-agent coordination, paving the way for more resilient and adaptable autonomous systems.
+The field of automatic guidance and control of unmanned systems is rapidly evolving, driven by advancements in artificial intelligence, sensor technology, and communication systems. This area encompasses a wide range of applications, from unmanned aerial vehicles (UAVs) to mobile manipulators, each requiring sophisticated control strategies to navigate complex environments effectively. This research aims to develop robust, adaptive guidance algorithms that ensure safety, efficiency, and flexibility in dynamic conditions. By leveraging methodologies such as Software in the Loop (SITL) and Hardware in the Loop (HITL) simulations, our work emphasizes the importance of rapid prototyping in optimizing control strategies. The integration of robust guidance mechanisms that account for factors such as autopilot lag and GPS-denied conditions ensures that unmanned systems can operate reliably and autonomously across diverse operational scenarios.
 
 <hr> <!-- Adding a line to separate sections -->
 
