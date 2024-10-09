@@ -63,8 +63,6 @@ In this work, we address the challenge of developing robust guidance strategies 
     Pursuer adapting for lag in autopilot dynamics to sucessfully enclose moving targets
 </div>
 
-<hr> <!-- Adding a line to separate sections -->
-
 ## Related Publications
 
 <div class="publications">
