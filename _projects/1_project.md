@@ -66,7 +66,7 @@ This paper focuses on developing an energy-efficient control algorithm for a typ
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    The Follower converges to the virtual ring  to maintain formation.
+    The Follower converges to any point on the virtual ring to maintain formation. 
 </div>
 
 ## Related Publications
