@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h5>Autonomous Navigation and Control of Unmanned Vehicles</h5>
+title: Autonomous Navigation and Control of Unmanned Vehicles
 description: ""
 img: assets/img/guide_ctrl/sta_sitl.gif
 importance: 3
