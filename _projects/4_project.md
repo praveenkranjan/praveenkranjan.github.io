@@ -30,8 +30,6 @@ In this work, we focus on the rapid development and testing of guidance algorith
     </div>
 </div>
 
-<iframe width="560" height="315" src="https://t.ly/vfF75" frameborder="0" allowfullscreen></iframe>
-
 <hr> <!-- Adding a line to separate sections -->
 
 ### <span style="font-weight: bold; font-size: 24px;"> Autonomous Control of Mobile Manipulators in GPS-Denied Conditions </span>
