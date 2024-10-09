@@ -28,6 +28,9 @@ In this work, we focus on the rapid development and testing of guidance algorith
     <div class="col-sm-8 mt-3 mt-md-0">
         <iframe width="540" height="320" src="https://www.youtube.com/embed/zmdImaB7bp0" title="Software-in-the-loop simulations with tuned autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
+    <div class="caption">
+        ROS based Software-in-the-loop simulation for Quadrotor Guidance law development
+    </div>
 </div>
 
 <hr> <!-- Adding a line to separate sections -->
