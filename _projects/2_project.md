@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h4>Distributed Multi-agent Systems and Controls</h4>
+title: Distributed Multi-agent Systems and Controls
 description: ""
 img: assets/img/safe_enc/self_org.gif
 importance: 1
