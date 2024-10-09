@@ -34,14 +34,14 @@ In GPS-denied environments, where traditional positioning systems are unavailabl
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/guide_ctrl/mob_mani.gif" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Flight experiments showcasing the practical implementation of flexible leader-follower formation control strategies.
+            Autonomous Mobile Manipulator operation without global position information.
         </div>
     </div>
 </div>
 
 <hr> <!-- Adding a line to separate sections -->
 
-### <span style="font-weight: bold; font-size: 24px;">Robust UAV Guidance Law for Safe Target Circumnavigation with Limited Information and Autopilot Lag Considerations</span>
+### <span style="font-weight: bold; font-size: 24px;">Robust guidance with Autopilot Lag Considerations</span>
 
 This paper presents a novel approach to addressing the challenges of safe target enclosing by a single unmanned aerial vehicle (UAV) with limited information and autopilot lag considerations. Autopilot lag can cause delays in the response of the UAV, leading to potential safety risks. Therefore, the proposed guidance law takes into account the autopilot lag and aims to mitigate its effect on the UAVs' trajectory. We propose a robust guidance law that optimizes the UAV's trajectory to stay within safe proximity from the target in the presence of autopilot lag while also ensuring that the target always remains enclosed/contained. Moreover, since the UAV may have limited information available, the guidance law is designed to be robust and able to perform optimally with minimum information. Our approach thus enables the UAV to make intelligent decisions to execute corrective maneuvers based on the given safety requirements that could enhance situational awareness in complex and dynamic environments. We show through extensive simulations that our proposed guidance law significantly improves the UAV's performance while adhering to the constraints imposed on its trajectory.
 
