@@ -44,7 +44,7 @@ This paper presents a novel approach to addressing the challenges of safe target
         </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/flex_form/flex_form_web_3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/guide_ctrl/mob_mani.gif" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Flight experiments showcasing the practical implementation of flexible leader-follower formation control strategies.
         </div>
