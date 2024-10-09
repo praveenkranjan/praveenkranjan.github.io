@@ -21,7 +21,7 @@ Inspired by the behavior of human pilots, we present a novel formation strategy 
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Fixed Bearing Angle Formation Maneuvering (FBFM), where the follower maintains fixed distance and fixed bearing angle.
+    Fixed Bearing Angle Formation Maneuvering (FBFM), where the follower maintains fixed distance and fixed bearing angle from the leader.
 </div>
 
 <div class="row justify-content-sm-center">
@@ -48,7 +48,7 @@ This paper focuses on developing an energy-efficient control algorithm for a typ
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Engagement geometry Leader-Follower Ring Formation, with a virtual ring behind the leader.
+    A virtual ring behind the leader represents the allowable positions for the follower to maintain formation.
 </div>
 
 <div class="row justify-content-sm-center">
