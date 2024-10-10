@@ -76,4 +76,5 @@ In this work, we address the challenge of developing robust guidance strategies 
 
 <div class="publications">
   {% bibliography -f papers -q @*[key=doi:10.2514/6.2024-0124]* %}
+  {% bibliography -f papers -q @*[key=new_3]* %}  
 </div>
