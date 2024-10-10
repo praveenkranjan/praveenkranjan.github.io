@@ -2,7 +2,7 @@
 layout: page
 title: "Aerial Vehicle Design"
 description: ""
-img: "assets/img/1.jpg"
+img: "assets/img/uavdesign/heliautorotate.gif"
 importance: 5
 category: "Flight Dynamics Modelling"
 ---
