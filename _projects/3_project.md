@@ -11,7 +11,7 @@ Mobile robots often operate in dynamic, uncertain environments, requiring adapti
 
 <hr> <!-- Adding a line to separate sections -->
 
-### <span style="font-weight: bold; font-size: 24px;">Deep Reinforcement learning for generalized motion planning of non-holonomic agents.</span>
+### <span style="font-weight: bold; font-size: 24px;">Reinforcement learning for generalized motion planning of non-holonomic agents.</span>
 
 In this work, we focus on the application of deep reinforcement learning (DRL) to develop robust and adaptable motion planning strategies for non-holonomic agents, such as wheeled robots and autonomous vehicles. Non-holonomic agents face constraints on their motion, making traditional planning techniques less effective. This work leverages the ability of DRL to learn complex policies through interaction with the environment, enabling generalized, efficient, and collision-free path planning in dynamic or complex environments, even with limited maneuverability. The study aims to enhance autonomous navigation by integrating learning-based approaches with classical motion planning concepts.
 
