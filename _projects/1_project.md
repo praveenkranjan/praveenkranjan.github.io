@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multi-Vehicle Motion Planning for Relational Maneuvering
+title: Motion Planning for Relational Maneuvering
 description: ""
 img: assets/img/flex_form/flex_form_web_1.gif
 importance: 1
