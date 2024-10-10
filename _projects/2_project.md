@@ -11,7 +11,7 @@ In the realm of distributed multi-agent systems, achieving effective coordinatio
 
 <hr> <!-- Adding a line to separate sections -->
 
-### <span style="font-weight: bold; font-size: 24px;">Self-organising Multi-agent Target enclosing</span>
+### <span style="font-weight: bold; font-size: 24px;">Self-organising Target enclosing</span>
 
 This research presents an innovative approach to solving the target enclosing problem using non-holonomic multi-agent systems. Our method enables agents to self-organize around a fixed target, independently moving toward the desired formation while activating collision avoidance mechanisms when necessary. By combining global formation behavior with local collision avoidance, we ensure safe, coordinated movement among agents. The approach simplifies safety management by requiring each agent to focus only on its nearest potential collision, reducing the complexity of the system. This method is particularly effective in scenarios with limited global information, offering a robust solution that minimizes communication needs.
 
