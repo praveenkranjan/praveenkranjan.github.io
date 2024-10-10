@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Navigation and Control of Unmanned Vehicles
+title: Autonomous Navigation and Control of Unmanned Systems
 description: ""
 img: assets/img/guide_ctrl/sta_sitl.gif
 importance: 3
