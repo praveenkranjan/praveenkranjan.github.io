@@ -2,7 +2,7 @@
 layout: page
 title: Learning for UAV Dynamics and Control
 description: #
-img: assets/img/safe_enc/self_org_f1.gif
+img: assets/img/learn/learning_v1.gif
 importance: 4
 category: Distributed Multi-agents Systems
 ---
