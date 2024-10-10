@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Design and Development of UAVs"
+title: "Design and Development of Unmanned Aerial Vehicles"
 description: ""
 img: "assets/img/uavdesign/heliautorotate.gif"
 importance: 5
