@@ -15,6 +15,18 @@ The field of automatic guidance and control of unmanned systems is rapidly evolv
 
 In this work, we focus on the rapid development and testing of guidance algorithms for Unmanned Aerial Vehicles (UAVs) using Software-in-the-Loop (SITL) and Hardware-in-the-Loop (HITL) simulations. SITL allows for the testing of guidance strategies in a simulated environment that replicates real-world conditions, enabling rapid prototyping without the risk and expense of live flight tests. HITL further validates the algorithms by integrating actual UAV hardware components into the simulation loop, providing more realistic feedback on performance under real-world constraints such as sensor delays, actuator limits, and environmental disturbances. Together, these approaches accelerate the development process, ensuring that UAV guidance algorithms are robust, reliable, and ready for deployment in field operations.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/uavdesign/helifrequencysweep.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/uavdesign/helifrequencysweep.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
+    Fixed Bearing Angle Formation Maneuvering (FBFM), where the follower maintains fixed distance and fixed bearing angle from the leader.
+</div>
+
 <hr> <!-- Adding a line to separate sections -->
 
 ### <span style="font-weight: bold; font-size: 24px;">Physics-based Flight Dynamics Modelling</span>
