@@ -7,7 +7,7 @@ importance: 5
 category: "Flight Dynamics Modelling"
 ---
 
-The field of automatic guidance and control of unmanned systems is rapidly evolving, driven by advancements in artificial intelligence, sensor technology, and communication systems. This area encompasses a wide range of applications, from unmanned aerial vehicles (UAVs) to mobile manipulators, each requiring sophisticated control strategies to navigate complex environments effectively. This research aims to develop robust, adaptive guidance algorithms that ensure safety, efficiency, and flexibility in dynamic conditions. By leveraging methodologies such as Software in the Loop (SITL) and Hardware in the Loop (HITL) simulations, our work emphasizes the importance of rapid prototyping in optimizing control strategies. The integration of robust guidance mechanisms that account for factors such as autopilot lag and GPS-denied conditions ensures that unmanned systems can operate reliably and autonomously across diverse operational scenarios.
+The design and development of UAVs involve integrating advanced aerodynamics, control systems, and sensor technology to ensure stability, efficiency, and adaptability in various flight conditions. This project explores both theoretical and practical aspects of UAV development, focusing on creating vehicles that can perform reliably in complex, dynamic environments. By leveraging modern modeling and control techniques, we aim to push the boundaries of UAV performance, especially for vertical takeoff and landing (VTOL) aircraft and small UAVs.
 
 <hr> <!-- Adding a line to separate sections -->
 
