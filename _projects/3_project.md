@@ -7,7 +7,13 @@ importance: 4
 category: Distributed Multi-agents Systems
 ---
 
-This paper introduces an approach to address the target enclosing problem using non-holonomic multiagent systems, where agents self-organize on the enclosing shape around a fixed target. In our approach, agents independently move toward the desired enclosing geometry when apart and activate the collision avoidance mechanism when a collision is imminent, thereby guaranteeing inter-agent safety. Our approach combines global enclosing behavior and local collision avoidance mechanisms by devising a special potential function and sliding manifold. We rigorously show that an agent does not need to ensure safety with every other agent and put forth a concept of the nearest colliding agent (for any arbitrary agent) with whom ensuring safety is sufficient to avoid collisions in the entire swarm. The proposed control eliminates the need for a fixed or pre-established agent arrangement around the target and requires only relative information between an agent and the target. This makes our design particularly appealing for scenarios with limited global information, hence significantly reducing communication requirements. We finally present simulation results to vindicate the efficacy of the proposed method.
+Mobile robots often operate in dynamic, uncertain environments, requiring adaptive and precise control strategies. Traditional control methods rely on precise mathematical models, which can be difficult to derive for complex or unpredictable environments. This work focuses on leveraging learning-based approaches to improve the understanding of robot dynamics, allowing for more flexible and accurate control. By integrating data-driven models with control algorithms, the study aims to enable mobile robots to perform tasks more efficiently and autonomously in real-world scenarios.
+
+<hr> <!-- Adding a line to separate sections -->
+
+### <span style="font-weight: bold; font-size: 24px;">Deep Reinforcement learning for generalized motion planning of non-holonomic agents.</span>
+
+In this work, we focus on the application of deep reinforcement learning (DRL) to develop robust and adaptable motion planning strategies for non-holonomic agents, such as wheeled robots and autonomous vehicles. Non-holonomic agents face constraints on their motion, making traditional planning techniques less effective. This work leverages the ability of DRL to learn complex policies through interaction with the environment, enabling generalized, efficient, and collision-free path planning in dynamic or complex environments, even with limited maneuverability. The study aims to enhance autonomous navigation by integrating learning-based approaches with classical motion planning concepts.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
