@@ -38,3 +38,7 @@ System identification in the frequency domain plays a crucial role in developing
 ### <span style="font-weight: bold; font-size: 24px;">Physics-based Flight Dynamics Modelling</span>
 
 Physics-based flight dynamics modeling is essential for understanding how UAVs behave under different flight regimes. In this subtopic, we focus on developing high-fidelity models that simulate the forces and moments acting on UAVs. By incorporating physical principles such as aerodynamics, propulsion, and control surface deflections, these models enable accurate predictions of UAV performance, paving the way for more effective control system design and optimization. This approach also facilitates simulations that closely mirror real-world flight conditions, which are critical for testing and validation before deployment.
+
+<div class="publications">
+  {% bibliography -f papers -q @*[key=new_5]* %}  
+</div>
