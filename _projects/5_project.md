@@ -18,13 +18,19 @@ In this work, we focus on the rapid development and testing of guidance algorith
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/uavdesign/helifrequencysweep.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Flight data with multi-frequency input.
+        </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/uavdesign/helifrequencysweep.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/uavdesign/heliautorotate.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Helicopter Autorotation Data Collection.
+        </div>
     </div>
 </div>
 <div class="caption" style="font-style: italic; font-size: 14px; text-align: center;">
-    Fixed Bearing Angle Formation Maneuvering (FBFM), where the follower maintains fixed distance and fixed bearing angle from the leader.
+    Collecting flight data on helicopter UAV "TREX-ALign 700"
 </div>
 
 <hr> <!-- Adding a line to separate sections -->
