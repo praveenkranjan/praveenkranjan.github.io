@@ -31,6 +31,29 @@ In this work, we focus on the application of deep reinforcement learning (DRL) t
         {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<hr> <!-- Adding a line to separate sections -->
+
+### <span style="font-weight: bold; font-size: 24px;"> Deep Learning-Based Flight dynamics Modelling for UAVs </span>
+
+In this work, we focus on the application of deep reinforcement learning (DRL) to develop robust and adaptable motion planning strategies for non-holonomic agents, such as wheeled robots and autonomous vehicles. Non-holonomic agents face constraints on their motion, making traditional planning techniques less effective. This work leverages the ability of DRL to learn complex policies through interaction with the environment, enabling generalized, efficient, and collision-free path planning in dynamic or complex environments, even with limited maneuverability. The study aims to enhance autonomous navigation by integrating learning-based approaches with classical motion planning concepts.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org_f1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org_f2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org_f3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/safe_enc/self_org.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ## Related Publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=new_4]* %}  
