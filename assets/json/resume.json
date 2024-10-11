@@ -45,19 +45,19 @@
       "name": "Indian Institute of Technology, Kanpur",
       "position": "Project Engineer",
       "url": "",
-      "startDate": "2020-12-01",
-      "endDate": "2019-08-01",
+      "startDate": "2019-12-01",
+      "endDate": "2020-08-01",
       "summary": "VTOL and Helicopter Laboratory",
-      "highlights": ["Department of Aerosapce Engineering"]
+      "highlights": ["Department of Aerospace Engineering"]
     },
     {
       "name": "Indian Institute of Technology, Kanpur",
       "position": "Teaching Assistant",
       "url": "",
-      "startDate": "2019-08-01",
-      "endDate": "2018-06-01",
+      "startDate": "2018-08-01",
+      "endDate": "2019-06-01",
       "summary": "Course: Engineering Drawing",
-      "highlights": ["Department of Aerosapce Engineering"]
+      "highlights": ["Department of Aerospace Engineering"]
     }
   ],
   "volunteer": [
@@ -68,42 +68,42 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the Year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
       "institution": "University of Texas at San Antonio",
       "location": "San Antonio, USA",
-      "url": "www.utsa.edu",
+      "url": "https://www.utsa.edu",
       "area": "Electrical Engineering",
       "studyType": "PhD",
       "startDate": "2021-01-01",
       "endDate": "2024-12-01",
       "score": "10",
-      "courses": ["Thesis: Motion Planning for relationational Maneuvering of Unmanned Aerial Vehicles with Limted Information. "]
+      "courses": ["Thesis: Motion Planning for Relational Maneuvering of Unmanned Aerial Vehicles with Limited Information."]
     },
     {
       "institution": "Indian Institute of Technology, Kanpur",
       "location": "Kanpur, India",
-      "url": "www.ttk.ac.in",
+      "url": "https://www.iitk.ac.in",
       "area": "Aerospace Engineering",
       "studyType": "Masters of Technology",
-      "startDate": "2019-06-01",
-      "endDate": "2018-08-01",
+      "startDate": "2018-06-01",
+      "endDate": "2020-08-01",
       "score": "10",
-      "courses": ["Thesis: High-Fidelity Flight Dynamics Modelling using Deep Learing. "]
+      "courses": ["Thesis: High-Fidelity Flight Dynamics Modelling using Deep Learning."]
     },
     {
       "institution": "Indian Institute of Technology, Kanpur",
       "location": "Kanpur, India",
-      "url": "www.ttk.ac.in",
+      "url": "https://www.iitk.ac.in",
       "area": "Aerospace Engineering",
       "studyType": "Bachelors of Technology",
-      "startDate": "2018-06-01",
-      "endDate": "2014-08-01",
+      "startDate": "2014-08-01",
+      "endDate": "2018-06-01",
       "score": "10",
-      "courses": ["abc"]
+      "courses": ["Course: Flight Dynamics, Aerodynamics, Control Systems"]
     }
   ],
   "skills": [
@@ -113,8 +113,8 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "C++",
-        "Python (libraries such as pytorch, tensorflow, scikit-learn )",
-        "LATEX"
+        "Python (libraries such as PyTorch, TensorFlow, scikit-learn)",
+        "LaTeX"
       ]
     }
   ]
