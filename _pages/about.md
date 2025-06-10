@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style='font-size:1.0em;'>Graduate Research Fellow| Department of Electrical Engineering</span>
+subtitle: <span style='font-size:1.0em;'>Postdoctoral Fellow| Department of Electrical Engineering</span>
 
 profile:
   align: right
